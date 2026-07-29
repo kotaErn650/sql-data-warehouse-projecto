@@ -35,3 +35,7 @@ Desarrollar analítica basada en SQL para ofrecer información detallada sobre:
 - **Tendencias de ventas**
 
 Esta información empodera a las partes interesadas con métricas clave del negocio, permitiendo la toma de decisiones estratégicas.
+---
+## 💡Sobre mi!
+- **2026**
+apasionado por la tecnología y los datos, en aprendizaje constante ingeniero de Sistemas en formación proximo a graduarme, analista de datos, y automatización de procesos para la mejora constante en ambientes de desarrolló. 
