@@ -22,6 +22,7 @@ Desarrollar un almacén de datos moderno utilizando SQL Server para consolidar l
 -**Alcance:** Enfocarse únicamente en el conjunto de datos más reciente; no se requiere historización de datos.
 
 -**Documentación:** Proporcionar una documentación clara del modelo de datos para apoyar tanto a las partes interesadas del negocio (stakeholders) como a los equipos de analítica.
+
 ---
 
 ### BI: Analítica y Reportes (Analítica de Datos)
@@ -30,6 +31,9 @@ Desarrollar un almacén de datos moderno utilizando SQL Server para consolidar l
 
 Desarrollar analítica basada en SQL para ofrecer información detallada sobre:
 -**Comportamiento del cliente
+
 -**Rendimiento del producto
+
 -**Tendencias de ventas
+
 Esta información empodera a las partes interesadas con métricas clave del negocio, permitiendo la toma de decisiones estratégicas.
