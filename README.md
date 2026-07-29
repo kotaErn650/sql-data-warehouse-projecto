@@ -24,9 +24,9 @@ Desarrollar un almacén de datos moderno utilizando SQL Server para consolidar l
 -**Documentación:** Proporcionar una documentación clara del modelo de datos para apoyar tanto a las partes interesadas del negocio (stakeholders) como a los equipos de analítica.
 ---
 
-###BI: Analítica y Reportes (Analítica de Datos)
+### BI: Analítica y Reportes (Analítica de Datos)
 
-####Objetivo
+#### Objetivo
 
 Desarrollar analítica basada en SQL para ofrecer información detallada sobre:
 -**Comportamiento del cliente
