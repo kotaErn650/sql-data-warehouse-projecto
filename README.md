@@ -33,7 +33,6 @@ Desarrollar analítica basada en SQL para ofrecer información detallada sobre:
 - **Comportamiento del cliente**
 - **Rendimiento del producto**
 - **Tendencias de ventas**
-
 Esta información empodera a las partes interesadas con métricas clave del negocio, permitiendo la toma de decisiones estratégicas.
 ---
 ## 💡Sobre mi!
