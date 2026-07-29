@@ -30,9 +30,9 @@ Desarrollar un almacén de datos moderno utilizando SQL Server para consolidar l
 #### Objetivo
 
 Desarrollar analítica basada en SQL para ofrecer información detallada sobre:
--**Comportamiento del cliente
+-** Comportamiento del cliente
 
--**Rendimiento del producto
+-** Rendimiento del producto
 
 -**Tendencias de ventas
 
