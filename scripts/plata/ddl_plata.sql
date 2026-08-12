@@ -6,12 +6,12 @@
 -- GO
 /*
 ===============================================================================
-Guion DDL: Crear Tablas Silver
+Scripts DDL: Crear Tablas Silver
 ===============================================================================
-Propósito del Guion:
-    Este guion crea tablas en el esquema 'silver', eliminando las tablas
+Propósito del Scripts:
+    Este scripts crea tablas en el esquema 'silver', eliminando las tablas
     existentes si ya existen.
-    Ejecute este guion para redefinir la estructura DDL de las Tablas 'bronze'
+    Ejecute este scripts para redefinir la estructura DDL de las Tablas 'bronze'
 ===============================================================================
 */
 
