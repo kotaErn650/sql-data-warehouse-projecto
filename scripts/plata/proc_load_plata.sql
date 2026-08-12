@@ -1,3 +1,24 @@
+/*
+===============================================================================
+Procedimiento Almacenado: Cargar Capa Silver (Bronze -> Silver)
+===============================================================================
+Propósito del Scripts:
+    Este procedimiento almacenado realiza el proceso ETL (Extracción, Transformación, Carga) para
+    poblar las tablas del esquema 'silver' desde el esquema 'bronze'.
+    Acciones Realizadas:
+    - Trunca las tablas Silver.
+    - Inserta los datos transformados y depurados de Bronze en las tablas Silver.
+
+Parámetros:
+    Ninguno.
+    Este procedimiento almacenado no acepta parámetros ni devuelve valores.
+
+Ejemplo de Uso:
+    EXEC Silver.load_silver;
+===============================================================================
+*/
+
+
 
 	print('>> 1) Insertando Datos Into: plata.crm_cust_info')
 	INSERT INTO plata.crm_cust_info(
@@ -23,25 +44,6 @@
 		 WHEN cst_gndr = 'M' THEN 'HOMBRE'
 		 ELSE 'N/A'
 	END AS cst_gndr,
-/*
-===============================================================================
-Procedimiento Almacenado: Cargar Capa Silver (Bronze -> Silver)
-===============================================================================
-Propósito del Guion:
-    Este procedimiento almacenado realiza el proceso ETL (Extracción, Transformación, Carga) para
-    poblar las tablas del esquema 'silver' desde el esquema 'bronze'.
-    Acciones Realizadas:
-    - Trunca las tablas Silver.
-    - Inserta los datos transformados y depurados de Bronze en las tablas Silver.
-
-Parámetros:
-    Ninguno.
-    Este procedimiento almacenado no acepta parámetros ni devuelve valores.
-
-Ejemplo de Uso:
-    EXEC Silver.load_silver;
-===============================================================================
-*/
 	cst_create_date
 	FROM(
 		SELECT*,
