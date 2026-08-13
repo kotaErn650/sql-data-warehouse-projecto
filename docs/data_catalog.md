@@ -1,4 +1,4 @@
-# 1. oro.dim_customers
+# 1. Oro.dim_customers
 
 * **Propósito:** Almacena los detalles de los clientes enriquecidos con datos demográficos y geográficos.
 * **Columnas:**
@@ -20,7 +20,7 @@
 
 
 
-# 2. gold.dim_products
+# 2. Oro.dim_products
 
 * **Propósito:** Proporciona información sobre los productos y sus atributos.
 * **Columnas:**
@@ -43,7 +43,7 @@
 
 
 
-# 3. gold.fact_sales
+# 3. Oro.fact_sales
 
 * **Propósito:** Almacena datos transaccionales de ventas para fines analíticos.
 * **Columnas:**
